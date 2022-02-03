@@ -1,4 +1,0 @@
-installing chocolatey
-
-intalling github cli - choco install gh -> done
-
